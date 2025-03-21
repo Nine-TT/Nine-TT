@@ -2,7 +2,7 @@
 
 ![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1oYjBmOXVuYnJyMHViZWFpNDZpNml0enNwcTk4d21udG5uZDI4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oiTvz8ae3XGyA8ayUu/200.webp)
 
-
+- 🌱 I’m currently working on Backend development (Node.js)
 <!--
 **Nine-TT/Nine-TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
