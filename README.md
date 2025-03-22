@@ -1,35 +1,41 @@
-## Hi there 👋 I'm Nine-TT
+<h2 align="center">Hi there 👋 I'm Nine-TT</h2>
 
-![GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1oYjBmOXVuYnJyMHViZWFpNDZpNml0enNwcTk4d21udG5uZDI4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oiTvz8ae3XGyA8ayUu/200.webp)
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1oYjBmOXVuYnJyMHViZWFpNDZpNml0enNwcTk4d21udG5uZDI4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oiTvz8ae3XGyA8ayUu/200.webp" alt="GIF">
+</p>
 
-- 🌱 I’m currently working on <b> Backend development </b>
-- 📍 HaNoi, VietNam
+<div align="center">
+  <samp>
+    🌱 Currently working on <b>Backend Development</b><br>
+    📍 Hanoi, Vietnam
+  </samp>
+</div>
 
 <div>
   <samp>
     <h2 align="center">YOU CAN REACH ME BY</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/nine-tt/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://fb.com/1999AZZAR" target="blank"><img align="center"
+      <a href="https://www.facebook.com/cizh.tt/" target="blank"><img align="center"
          src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center"
+      <a href="chin.tt.dev@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
   <p align="center">
-      <a href="https://instagram.com/azzar_budiyanto" target="blank"><img align="center"
+      <a href="https://www.instagram.com/cizh_9/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://wa.me/+6282232529804" target="blank"><img align="center"
+      <a href="https://wa.me/+84866132301" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+      <!-- <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a>
+         alt="azzar" height="30"/></a> -->
       <br>
     </p>
   </samp>
