@@ -33,9 +33,9 @@
       <a href="https://wa.me/+84866132301" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <!-- <a href="https://twitter.com/siapa_hayosiapa" target="blank"><img align="center"
+      <a href="https://twitter.com/NineTT_0712" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="azzar" height="30"/></a> -->
+         alt="azzar" height="30"/></a> 
       <br>
     </p>
   </samp>
