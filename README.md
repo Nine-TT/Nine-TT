@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋 I'm Nine-TT</h2>
+<h2 align="center">Hi there 👋 I'm Niner-TT</h2>
 
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMm1oYjBmOXVuYnJyMHViZWFpNDZpNml0enNwcTk4d21udG5uZDI4bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/oiTvz8ae3XGyA8ayUu/200.webp" alt="GIF">
