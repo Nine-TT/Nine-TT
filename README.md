@@ -16,7 +16,6 @@
     <h2 align="center">YOU CAN REACH ME BY</h2>
     <p align="center">
       <br/>
-      <!-- LinkedIn -->
       <a href="https://www.linkedin.com/in/nine-tt/" target="_blank">
         <img
           align="center"
@@ -25,8 +24,6 @@
           height="30"
         />
       </a>
-
-      <!-- WhatsApp -->
       <a href="https://wa.me/84866132301" target="_blank">
         <img
           align="center"
