@@ -77,10 +77,6 @@
 <!-- </p>         -->
 <!--- stats (end) -->
 
-**Nine-TT/Nine-TT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-## 👋 Hi there
-
 - 🔭 I’m currently working on **full-stack applications** using **Node.js (NestJS), Golang**, React, MongoDB, and Redis
 - 🌱 I’m currently learning **system design, scalability, and high-performance backend with Golang**
 - 👯 I’m looking to collaborate on **open-source projects and real-world backend systems**
